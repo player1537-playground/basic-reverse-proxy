@@ -15,8 +15,13 @@ $ npm install --save github:player1537/basic-reverse-proxy
 Or to install globally:
 
 ```console
-$ sudo npm install -g github:player1537/basic-reverse-proxy
+$ npm install -g github:player1537/basic-reverse-proxy
 ```
+
+If you get a permissions error when installing
+globally, consider following the directions in
+[https://docs.npmjs.com/getting-started/fixing-npm-permissions](this npm
+guide).
 
 
 # Usage
